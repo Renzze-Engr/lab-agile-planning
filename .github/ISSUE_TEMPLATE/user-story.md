@@ -1,6 +1,6 @@
 ---
 name: User Story
-about: This template for creating user stories
+about: Template for creating user stories
 title: ''
 labels: ''
 assignees: ''
@@ -14,9 +14,10 @@ assignees: ''
 ### Details and Assumptions
 * [document what you know]
 
+
 ### Acceptance Criteria
 
-```gherkin
+ ```gherkin
  Given [some context]
  When [certain action is taken]
  Then [the outcome of action is observed]
